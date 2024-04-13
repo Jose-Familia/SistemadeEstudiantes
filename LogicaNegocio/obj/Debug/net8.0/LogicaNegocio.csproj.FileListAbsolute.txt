@@ -1,0 +1,15 @@
+D:\source\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.deps.json
+D:\source\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.dll
+D:\source\LogicaNegocio\bin\Debug\net8.0\LogicaNegocio.pdb
+D:\source\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.dll
+D:\source\LogicaNegocio\bin\Debug\net8.0\AccesoDatos.pdb
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.AssemblyReference.cache
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfoInputs.cache
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.AssemblyInfo.cs
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.csproj.CoreCompileInputs.cache
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNe.53575492.Up2Date
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.dll
+D:\source\LogicaNegocio\obj\Debug\net8.0\refint\LogicaNegocio.dll
+D:\source\LogicaNegocio\obj\Debug\net8.0\LogicaNegocio.pdb
+D:\source\LogicaNegocio\obj\Debug\net8.0\ref\LogicaNegocio.dll

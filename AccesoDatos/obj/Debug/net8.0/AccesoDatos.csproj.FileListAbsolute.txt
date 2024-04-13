@@ -1,0 +1,12 @@
+D:\source\AccesoDatos\bin\Debug\net8.0\AccesoDatos.deps.json
+D:\source\AccesoDatos\bin\Debug\net8.0\AccesoDatos.dll
+D:\source\AccesoDatos\bin\Debug\net8.0\AccesoDatos.pdb
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.AssemblyReference.cache
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfoInputs.cache
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.AssemblyInfo.cs
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.csproj.CoreCompileInputs.cache
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.dll
+D:\source\AccesoDatos\obj\Debug\net8.0\refint\AccesoDatos.dll
+D:\source\AccesoDatos\obj\Debug\net8.0\AccesoDatos.pdb
+D:\source\AccesoDatos\obj\Debug\net8.0\ref\AccesoDatos.dll
